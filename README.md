@@ -17,3 +17,5 @@ _ The program should include a pair of RadioButtons for choosing whether the use
 _ One player must be the server, and the other the client. 
 
 _ The server is considered Player 1 and gets to go first; the client is Player 2 and goes second.
+
+_ Link to the video demonstration of the game: https://drive.google.com/file/d/1GQEiJyufpo_naDYohyNKMEMHJEc9p_VH/view?usp=sharing
